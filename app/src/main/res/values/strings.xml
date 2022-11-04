@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Portrait Drawing</string>
+    <string name="theheada">theheada</string>
+    <string name="theheadb">theheadb</string>
+    <string name="theheadc">theheadc</string>
+    <string name="theheadd">theheadd</string>
+    <string name="description1">While drawing a skull, special attention should be paid to the bony structure which makes the skull. Everything should be in the right proportion. The eyes, the nose, the lips, the ears - all add to the beauty of a face. So, be careful while drawing different parts of the face and the skull. Last but not least, the hairline should be accurate. After all, it frames the head. Moreover, it helps to tip the face at its proper angle.</string>
+    <string name="AboutUs1">Portrait Drawing is an app that lets users do and learn from their drawings.</string>
+    <string name="about_us">About Us</string>
+    <string name="logo">logo</string>
+    <string name="scroll">scroll</string>
+    <string name="description3"> No two faces are similar in shapes, sizes, and other features. So this is the case with the heads which are of different shapes and sizes. Different actions on the neck of the heads also have been noticed. So, a thorough study of the anatomy, construction through outlines and planes is a must for the artist to give his or her drawing a vibrant and appealing look. Gone are the days when the artist repeated his or her style endlessly. </string>
+    <string name="description">The head rests on the whole body. So, it is the most important part in drawing the human body. A lot of attention should be paid to it while drawing it. </string>
+    <string name="description2">The artist should have a clear-cut idea of the structure of bones, before he or she starts drawing a head. The skull is nothing but a pile-up of various bones. In order to make the skull simple and understandable, the ball-and-plane approach is aptly suitable. In order to make an old face, the artist can add the forms of the weak muscles and some creases that fall between the muscles. The skin gets saggy. Pouches develop under the eyes. There are darker and deeper lines at the corner of the eyes. There is less hair on the top of the head. Lips get thinner and more inwards. So far as the forehead is concerned, some lines develop across it. The cartilages of the nose and the ears tend to get larger.</string>
+    <string name="description4">In today’s competitive world, there is no use harping on the same style. Unless and until the artist comes up with a fresh style, he or she cannot last long.</string>
+    <string name="diffheada">diffheada</string>
+    <string name="diffheadb">diffheadb</string>
+    <string name="AboutUs2">Drawing is an essential skill to have a foundation on animation. Beginner or Intermediate users can help hone their skills while offline or online.</string>
+    <string name="AboutUs3">We developed this app for those people who wants to learn on the go or those who have no budget. Luckily Portrait Drawing is here to make sure your animation progress will be smooth</string>
+    <string name="backlogo">backlogo</string>
+    <string name="desciption5">A plane is any flat or level surface or an imaginary flat surface joining material objects. A plane enables the artist to develop a simple form into a complex one. As the plane forms the basis for lighting, it should be learnt whole-heartedly.</string>
+    <string name="description6">Side view - using some clay models for the planes. It will enable you to light them in different ways. Then, you can start drawing them.</string>
+    <string name="description7">Back View- Unless the forms and planes are paid attention to, the back view seems to be an uphill task.
+</string>
+    <string name="description8">Start sketching the basic proportions for the features. </string>
+    <string name="description9">Add the lines of face and ear, draw nostrils and fill the eyebrows. Notice how the smile affects the line around eyes and lips.</string>
+    <string name="description10">Complete your drawing by adding details, shadows and good hairlines.
+</string>
+    <string name="description11">This is a good profile to exercise, for becoming an expert in placing the features correctly. This will show you how to draw the features of a woman.</string>
+    <string name="description12">Begin with a slightly cursed vertical line and divide the whole face with two horizontal lines. Start drawing features according to step A and step B. Between the two lines, there is space to draw eyes and nose respectively.</string>
+    <string name="description13">Complete your drawing by adding details, shadows and good hairlines.
+</string>
+    <string name="description14">Start drawing the features according to these lines.</string>
+    <string name="description15">Between the first two lines, there is a space for eyes. Nose should be drawn above the third line. The fourth one is for lips and the fifth line is a mark for the chin.</string>
+    <string name="description16">Note that a male face has a bone structure and heavy brows. To give the last finish draw the shading portion carefully.</string>
+    <string name="description17">Young girls have good charming faces. You can draw this by practicing the facial feature lines between the blocks in the proportion lines. </string>
+    <string name="description18">There should be an accuracy while drawing the jaw and ear of a young girl. </string>
+    <string name="description19">Sketch the sharp features of the girl’s profile.</string>
+    <string name="description20"> Refine the shapes of hair with a shading to the neck portion.</string>
+    <string name="description21">There are a lot of babies whose heads are small. But there are other babies whose heads are large.</string>
+    <string name="description22">The average size of a baby’s head may be drawn within a square.</string>
+    <string name="description23">Using the proportion shown here, the artist can use the ball and pen</string>
+    <string name="description24">Use the usual proportion guidelines.</string>
+    <string name="description25">Study your own hands and then draw the fingers in the right position.</string>
+    <string name="description26">Notice the lines around and the eyes and lips. Also, notice the lines on the forehead. To give the last finish draw the shading portion carefully.</string>
+    <string name="intro">Portraits are works of art that depict the likenesses of living or deceased humans or animals.
+This kind of art is referred to as portraiture, and the goal of a portrait is to preserve an image of someone for the future, with the intention of displaying it.
+</string>
+    <string name="intro1">the persons appearance, demeanor, and even mood</string>
+    <string name="intro2">In most portraits, the subject stares squarely at the painter or photographer.
+in order to most effectively engage the viewer with the issue</string>
+</resources>
